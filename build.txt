@@ -1,0 +1,4 @@
+displayName = Elements Awoken Music
+author = ThatOneJuicyOrange_
+version = 0.1
+modReferences = ElementsAwoken
