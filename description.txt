@@ -1,6 +1,29 @@
 Elements Awoken Music Pack gives all of the bosses their unique themes as well as adding music boxes for each of them.
 
+Themes:
+
+Wasteland ~ Sandstorm Curtain by Ranipla
+Infernace ~ Phoenix Ashes by Ranipla and Genih WAT
+Cosmic Observer ~ Percieve The Paradox by Ranipla
+Scourge Fighter ~ Binary Overload by Ranipla and Genih WAT
+Regaroth ~ Storm's Battle by Ranipla and Genih WAT
+Permafrost ~ Coldblooded Cry by Ranipla and Genih WAT
+Obsidious ~ For the Fallen by Genih WAT (?)
+Aqueous ~ Final Avengeance by Ranipla and Genih WAT
+Temple Keepers ~ Drakonite Onslaught by Ranipla and Genih WAT
+The Guardian ~ Anthem of Flames by Ranipla and Reignited Inferno by Ranipla and Genih WAT
+Dawn of the Void ~ Dark Matter by Ranipla and Genih WAT and No Matter by Ranipla
+Shade Wyrm ~ Anti Matter by Ranipla and Genih WAT
+Volcanox ~ Inner Core by Ranipla
+Void Leviathan ~ VOID by Universe
+Azana ~ SYMB1OT1C and v_r_l_n_c by Ranipla
+Radiant Rain ~ Through The Stellar Monsoon by Ranipla
+Radiant Master ~ As If The Heavens Cried by Ranipla
+The Ancients ~ Forgotten Resurrection by Universe
+
 Changelog
+0.5.1
+- New Azana themes
 0.5
 - New Void Leviathan theme
 0.4
@@ -22,4 +45,3 @@ Changelog
 
 0.1.1.1
 - Fixed the celestials theme not playing properly
-

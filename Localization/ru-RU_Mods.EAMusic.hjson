@@ -1,0 +1,114 @@
+Items: {
+	# Так было в оригинали Music Box (Aqueous)
+	InfernaceBoxItem: {
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Инфернейс)
+	}
+
+	CelestialVortexBoxItem: {
+		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
+		DisplayName: Музыкальная шкатулка (Небожители)
+	}
+
+	CelestialStardustBoxItem: {
+		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
+		DisplayName: Музыкальная шкатулка (Небожители)
+	}
+
+	CelestialSolarBoxItem: {
+		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
+		DisplayName: Музыкальная шкатулка (Небожители)
+	}
+
+	CelestialNebulaBoxItem: {
+		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
+		DisplayName: Музыкальная шкатулка (Небожители)
+	}
+
+	AzanaBoxItem: {
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Азана)
+	}
+
+	AstraBoxItem: {
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Астра)
+	}
+
+	AqueousBoxItem: {
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Аквеус)
+	}
+
+	AncientsBoxItem: {
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Древние)
+	}
+
+	ObserverBoxItem: {
+		DisplayName: Музыкальная шкатулка (Космоблюдатель)
+		Tooltip: ""
+	}
+
+	ObsidiousBoxItem: {
+		DisplayName: Музыкальная шкатулка (Обсидиус)
+		Tooltip: ""
+	}
+
+	PermafrostBoxItem: {
+		DisplayName: Музыкальная шкатулка (Пермафрост)
+		Tooltip: ""
+	}
+
+	RegarothBoxItem: {
+		DisplayName: Музыкальная шкатулка (Регарот)
+		Tooltip: ""
+	}
+
+	ScourgeFighterBoxItem: {
+		DisplayName: Музыкальная шкатулка (Бичеборец)
+		Tooltip: ""
+	}
+
+	ToySlimeBoxItem: {
+		DisplayName: Музыкальная шкатулка (Игрушечный слизень)
+		Tooltip: ""
+	}
+
+	VoidLeviathanBoxItem: {
+		DisplayName: Музыкальная шкатулка (Левиафан Пустоты)
+		Tooltip: ""
+	}
+
+	VolcanoxBoxItem: {
+		DisplayName: Музыкальная шкатулка (Волканокс)
+		Tooltip: ""
+	}
+
+	WastelandBoxItem: {
+		DisplayName: Музыкальная шкатулка (Пустошь)
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	# Так было в оригинали Music Box
+	WastelandBox.MapEntry: Музыкальная шкатулка
+	VolcanoxBox.MapEntry: Музыкальная шкатулка
+	VoidLeviathanBox.MapEntry: Музыкальная шкатулка
+	ToySlimeBox.MapEntry: Музыкальная шкатулка
+	ScourgeFighterBox.MapEntry: Музыкальная шкатулка
+	RegarothBox.MapEntry: Музыкальная шкатулка
+	PermafrostBox.MapEntry: Музыкальная шкатулка
+	ObsidiousBox.MapEntry: Музыкальная шкатулка
+	ObserverBox.MapEntry: Музыкальная шкатулка
+	InfernaceBox.MapEntry: Музыкальная шкатулка
+	CelestialVortexBox.MapEntry: Музыкальная шкатулка
+	CelestialStardustBox.MapEntry: Музыкальная шкатулка
+	CelestialSolarBox.MapEntry: Музыкальная шкатулка
+	CelestialNebulaBox.MapEntry: Музыкальная шкатулка
+	AzanaBox.MapEntry: Музыкальная шкатулка
+	AstraBox.MapEntry: Музыкальная шкатулка
+	AqueousBox.MapEntry: Музыкальная шкатулка
+	AncientsBox.MapEntry: Музыкальная шкатулка
+}

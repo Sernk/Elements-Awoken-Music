@@ -1,1 +1,114 @@
+Items: {
+	# Так было в оригинали Music Box (Aqueous)
+	InfernaceBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (Infernace)
+	}
 
+	CelestialVortexBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (The Celestials)
+	}
+
+	CelestialStardustBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (The Celestials)
+	}
+
+	CelestialSolarBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (The Celestials)
+	}
+
+	CelestialNebulaBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (The Celestials)
+	}
+
+	AzanaBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (Azana)
+	}
+
+	AstraBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (Astra)
+	}
+
+	AqueousBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (Aqueous)
+	}
+
+	AncientsBoxItem: {
+		Tooltip: ""
+		DisplayName: Music Box (The Ancients)
+	}
+
+	ObserverBoxItem: {
+		DisplayName: Music Box (Cosmic Observer)
+		Tooltip: ""
+	}
+
+	ObsidiousBoxItem: {
+		DisplayName: Music Box (Obsidious)
+		Tooltip: ""
+	}
+
+	PermafrostBoxItem: {
+		DisplayName: Music Box (Permafrost)
+		Tooltip: ""
+	}
+
+	RegarothBoxItem: {
+		DisplayName: Music Box (Regaroth)
+		Tooltip: ""
+	}
+
+	ScourgeFighterBoxItem: {
+		DisplayName: Music Box (Scourge Fighter)
+		Tooltip: ""
+	}
+
+	ToySlimeBoxItem: {
+		DisplayName: Music Box (Toy Slime)
+		Tooltip: ""
+	}
+
+	VoidLeviathanBoxItem: {
+		DisplayName: Music Box (Void Leviathan)
+		Tooltip: ""
+	}
+
+	VolcanoxBoxItem: {
+		DisplayName: Music Box (Volcanox)
+		Tooltip: ""
+	}
+
+	WastelandBoxItem: {
+		DisplayName: Music Box (Wasteland)
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	# Так было в оригинали Music Box
+	WastelandBox.MapEntry: Music Box
+	VolcanoxBox.MapEntry: Music Box
+	VoidLeviathanBox.MapEntry: Music Box
+	ToySlimeBox.MapEntry: Music Box
+	ScourgeFighterBox.MapEntry: Music Box
+	RegarothBox.MapEntry: Music Box
+	PermafrostBox.MapEntry: Music Box
+	ObsidiousBox.MapEntry: Music Box
+	ObserverBox.MapEntry: Music Box
+	InfernaceBox.MapEntry: Music Box
+	CelestialVortexBox.MapEntry: Music Box
+	CelestialStardustBox.MapEntry: Music Box
+	CelestialSolarBox.MapEntry: Music Box
+	CelestialNebulaBox.MapEntry: Music Box
+	AzanaBox.MapEntry: Music Box
+	AstraBox.MapEntry: Music Box
+	AqueousBox.MapEntry: Music Box
+	AncientsBox.MapEntry: Music Box
+}
