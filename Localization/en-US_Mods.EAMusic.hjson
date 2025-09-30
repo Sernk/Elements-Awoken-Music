@@ -7,22 +7,22 @@ Items: {
 
 	CelestialVortexBoxItem: {
 		Tooltip: ""
-		DisplayName: Music Box (The Celestials)
+		DisplayName: Music Box (Aquila)
 	}
 
 	CelestialStardustBoxItem: {
 		Tooltip: ""
-		DisplayName: Music Box (The Celestials)
+		DisplayName: Music Box (Nova)
 	}
 
 	CelestialSolarBoxItem: {
 		Tooltip: ""
-		DisplayName: Music Box (The Celestials)
+		DisplayName: Music Box (Ember)
 	}
 
 	CelestialNebulaBoxItem: {
 		Tooltip: ""
-		DisplayName: Music Box (The Celestials)
+		DisplayName: Music Box (Carina)
 	}
 
 	AzanaBoxItem: {

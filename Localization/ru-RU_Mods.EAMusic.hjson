@@ -6,23 +6,23 @@ Items: {
 	}
 
 	CelestialVortexBoxItem: {
-		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
-		DisplayName: Музыкальная шкатулка (Небожители)
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Аквила)
 	}
 
 	CelestialStardustBoxItem: {
-		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
-		DisplayName: Музыкальная шкатулка (Небожители)
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Нова)
 	}
 
 	CelestialSolarBoxItem: {
-		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
-		DisplayName: Музыкальная шкатулка (Небожители)
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Эмбер)
 	}
 
 	CelestialNebulaBoxItem: {
-		Tooltip: НЕДОСТУПНЫЙ ПРЕДМЕТ
-		DisplayName: Музыкальная шкатулка (Небожители)
+		Tooltip: ""
+		DisplayName: Музыкальная шкатулка (Карина)
 	}
 
 	AzanaBoxItem: {
